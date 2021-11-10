@@ -1,4 +1,4 @@
-uID,variable,factor,Country,Location,Language,Setting
+userID,Response,Question,Country,Location,Language,Setting
 2,3,Unprepared,Australia,"University of New South Wales, Sydney, Australia",English,Online (at home)
 3,2,Unprepared,Australia,"University of New South Wales, Sydney, Australia",English,Online (at home)
 4,2,Unprepared,Australia,"University of New South Wales, Sydney, Australia",English,Online (at home)
